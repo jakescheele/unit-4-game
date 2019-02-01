@@ -1,0 +1,29 @@
+img {
+    width:175px;
+}
+#title {
+    background-color: orange;
+}
+#instructions {
+    background-color: #f3e5ab;
+}
+#winslosses {
+    background-color: #00ffff
+}
+.col-md-6 {
+    background-color: green;
+}
+#scoreboard {
+    background-color: teal
+}
+#randomNumber {
+    color: #E238EC
+}
+#startButton {
+    margin: 20px;
+}
+/* @media (max-width: 770pt) {
+    #crystal {
+    float: left;
+    }
+} */
